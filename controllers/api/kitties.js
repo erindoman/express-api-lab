@@ -1,4 +1,3 @@
-const { deleteOne } = require('../../models/kitty')
 const Kitty = require('../../models/kitty')
 
 module.exports = {
